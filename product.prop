@@ -1,3 +1,15 @@
+# Audio
+ro.config.media_vol_steps=25
+ro.config.vc_call_vol_steps=7
+
+# Fling
+ro.min.fling_velocity=160
+ro.max.fling_velocity=20000
+
+# Graphics
+ro.hardware.egl=adreno
+ro.hardware.vulkan=adreno
+
 # LMKD
 ro.lmk.low=1001
 ro.lmk.medium=800
